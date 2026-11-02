@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">lab</string>
+    <string name="app_name">business card</string>
+    <string name="dev_text">android developer</string>
+    <string name="student_name">Baranov A.V.</string>
+    <string name="student_group">B23-191-1zy</string>
+    <string name="contact">Contact me</string>
+    <string name="contact_mail">pochtadlyavas778@gmail.com</string>
+    <string name="contact_phone">+7 (900) 123-45-67</string>
 </resources>
